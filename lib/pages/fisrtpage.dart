@@ -8,7 +8,7 @@ class FirstPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text ("The Colosseo"),  
+        title: const Text ("The pretest"),  
       ),
       body: Center(
         child: Column(
